@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html.
 - 💞️ I’m looking to collaborate on Research organization.
 - 📫 How to reach me through msg.
-- 😄 Pronouns: English, Hindi, Kannada, Telugu.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: any joke.
 
 <!---
